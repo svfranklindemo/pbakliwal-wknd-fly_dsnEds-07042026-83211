@@ -8,7 +8,6 @@
     "/content/pbakliwal/my-dsn-project-7/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/pbakliwal/my-dsn-project-7/",
-    "/content/dam/pbakliwal/my-dsn-project-7/"
+    "/content/pbakliwal/my-dsn-project-7/"
   ]
 }
